@@ -4,7 +4,7 @@
 
 Conducted stock analysis for years 2017 and 2018 where total daily volume and return percentage are added to a single sheet for the client to review. Because potentially there could be more data added for analysis, the code needed refactoring to perform faster. 
 
-
+##### Stock Analyses
 
 ![stock_analysis_2017](resources/Stock_Analysis_2017.png)
 
